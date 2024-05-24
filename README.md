@@ -53,3 +53,7 @@ Mr. Bean 豆豆先生《咖啡豆專賣》旨在成為每位咖啡愛好者的�
 > **製作團隊:**
 >
 > [徐上閔](https://github.com/HSU0201)、[蔡翰陞](https://github.com/Erix2000)、[宋漾晴](https://github.com/yangching622)、[楊子頡](https://github.com/Jason840808)、[朱依禾](https://github.com/Joy-chu-ihe)、[郭雅軒](https://github.com/hsuan66)、[李文濤](https://github.com/James-1022)
+
+
+## 注意
+因為安全性因素 已刪除密鑰與敏感程式
